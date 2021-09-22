@@ -15,18 +15,18 @@ trait SmtpConfigTrait {
         try {
             $user = (object) [
                 'name' => 'Harry potter',
-                'email' => 'ditro.dev@gmail.com'
+                'email' => 'xxxxxxxxxxx@gmail.com'
             ];
 
             $configuration = [
                 'smtp_host'    => 'smtp.googlemail.com',
                 'smtp_port'    => '465',
-                'smtp_username'  => 'satpalsharma283@gmail.com',
-                'smtp_password'  => 'ielwyxpwwifdjbwt',
+                'smtp_username'  => 'xxxxxxxxxx@gmail.com',
+                'smtp_password'  => 'xxxxxxxxxxxxx',
                 'smtp_encryption'  => 'ssl',
-                'from_email'    => 'satpalbhardwaj665@gmail.com',
+                'from_email'    => 'xxxxxxxxxxxxxx@gmail.com',
                 'from_name'    => 'Harry - T',
-                'replyTo_email'    => 'satpalbhardwaj665@gmail.com',
+                'replyTo_email'    => 'xxxxxxxxxxx@gmail.com',
                 'replyTo_name'    => 'Harry Pc',
             ];
            
