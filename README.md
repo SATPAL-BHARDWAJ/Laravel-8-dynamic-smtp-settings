@@ -1,7 +1,7 @@
 # Laravel-8-dynamic-smtp-settings
 Dynamic smtp solution in which users can add their own smtp configurations and can send mails to their clients with their smtp details Like SAAS softwares does.
 
-For more details read our blog (Laravel Dynamic smtp settings)[https://sbsharma.com/laravel-dynamic-smtp-settings/]
+For more details read our blog [Laravel Dynamic smtp settings](https://sbsharma.com/laravel-dynamic-smtp-settings/)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
